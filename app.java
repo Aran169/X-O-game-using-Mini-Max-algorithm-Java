@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class app {
 private static final int D = 9;
 private static final String AI = "O";
-private static final String NIL = " ";`
+private static final String NIL = " ";
 private static final String USER = "X";
 private static final String XNAME = "USER";
 private static final String ONAME = "AI";
